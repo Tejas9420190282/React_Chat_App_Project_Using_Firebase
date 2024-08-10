@@ -11,13 +11,13 @@
 }
 
 body {
-  background-image: url("/bg.jpg");
+/*    background-image: url("/bg.jpg");  */
+  background-color: #1E1E36;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
   color: white;
-
 }
 
 .container {
